@@ -1,21 +1,21 @@
 @font-face{
 	font-family: 'Gilroy';
-	src: url('./../fonts/font/Gilroy-Medium.ttf') format('truetype');
+	src: url('/fonts/font/Gilroy-Medium.ttf') format('truetype');
 	font-weight: 500;
 }
 @font-face{
 	font-family: 'Gilroy';
-	src: url('./../fonts/font/Gilroy-Bold.ttf') format('truetype');
+	src: url('/fonts/font/Gilroy-Bold.ttf') format('truetype');
 	font-weight: 700;
 }
 @font-face{
 	font-family: 'Gilroy';
-	src: url('./../fonts/font/Gilroy-Extrabold.ttf') format('truetype');
+	src: url('/fonts/font/Gilroy-Extrabold.ttf') format('truetype');
 	font-weight: 800;
 }
 @font-face{
 	font-family: 'Playfair Display';
-	src: url('./../fonts/Playfair_Display/PlayfairDisplay-SemiBold.ttf') format('truetype');
+	src: url('/fonts/Playfair_Display/PlayfairDisplay-SemiBold.ttf') format('truetype');
 	font-weight: 600;
 }
 body{
